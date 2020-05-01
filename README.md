@@ -1,1 +1,1 @@
-# Awesome-Resources-For-Code-Newbies-
+# Awesome Resources For Code Newbies
