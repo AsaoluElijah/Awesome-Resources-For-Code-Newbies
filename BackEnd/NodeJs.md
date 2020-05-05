@@ -7,8 +7,7 @@ ____
 - [Documentation + Articles](#docs-article)
 - [Video Tutorials](#vid-tutorial)
 - [App Development](#app-dev)
-- [API Development](#api-dev)
-- 
+- [API Development](#api-dev) 
 
 ## <a name="docs-article"></a> Documentation + Articles
 - [Node.js Docs](https://nodejs.org/en/docs/)
