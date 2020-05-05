@@ -14,7 +14,6 @@ ____
 - [Node.js Introduction](https://www.w3schools.com/nodejs/nodejs_intro.asp) - W3Schools
 - [Intro to Node.js](https://nodejs.dev/) - Node.dev
 - [What exactly is Node.js](https://www.google.com/amp/s/www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/amp/) - Freecodecamp
-- 
 
 ### <a name="vid-tutorial"></a> Video Tutorials
 - [Learn Node.js Full tutorial for begineers](https://youtube.com/watch?v=RLtyhwFtXQA) - FreeCodeCamp
